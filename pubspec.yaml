@@ -38,8 +38,9 @@ dependencies:
   cupertino_icons: ^1.0.2
 
   soso_mobile_cart:
-    path: https://github.com/patic457/soso_mobile_cart.git
-    ref: main
+    git:
+      url: https://github.com/patic457/soso_mobile_cart.git
+      ref: main
   
   # preview:
   #   git:

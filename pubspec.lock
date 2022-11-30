@@ -386,9 +386,11 @@ packages:
   soso_mobile_cart:
     dependency: "direct main"
     description:
-      path: "../soso_mobile_cart"
-      relative: true
-    source: path
+      path: "."
+      ref: main
+      resolved-ref: "9e70ce5d2a437f2ed3818e55b332c2834eea9d88"
+      url: "https://github.com/patic457/soso_mobile_cart.git"
+    source: git
     version: "0.0.1"
   source_span:
     dependency: transitive
