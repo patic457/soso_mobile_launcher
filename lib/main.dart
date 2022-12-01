@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:soso_mobile/config.dart';
-import 'package:soso_mobile_cart/marketplace.dart' as marketplace;
+import 'package:marketplace/marketplace.dart' as marketplace;
 // import 'package:preview/preview.dart';
 
 void main() {

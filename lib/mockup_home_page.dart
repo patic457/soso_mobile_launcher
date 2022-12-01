@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:soso_mobile_cart/cart/presentation/pages/cart_page.dart';
-import 'package:soso_mobile_cart/marketplace.dart' as marketplace;
+
 // import 'package:preview/preview.dart';
 
 class MockupHomePage extends StatefulWidget {

@@ -37,10 +37,11 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
 
-  soso_mobile_cart:
-    git:
-      url: https://github.com/patic457/soso_mobile_cart.git
-      ref: main
+  marketplace:
+    path: ../marketplace_feature_cart
+    # git:
+    #   url: https://github.com/patic457/soso_mobile_cart.git
+    #   ref: main
   
   # preview:
   #   git:

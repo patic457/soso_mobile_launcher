@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:marketplace/cart/presentation/pages/cart_page.dart';
+import 'package:marketplace/cart/presentation/pages/checkout_page.dart';
 import 'package:soso_mobile/config.dart';
-import 'package:soso_mobile_cart/cart/presentation/pages/cart_page.dart';
-import 'package:soso_mobile_cart/cart/presentation/pages/checkout_page.dart';
-import 'package:soso_mobile_cart/marketplace.dart' as marketplace;
 
 // import 'package:preview/preview.dart';
 
