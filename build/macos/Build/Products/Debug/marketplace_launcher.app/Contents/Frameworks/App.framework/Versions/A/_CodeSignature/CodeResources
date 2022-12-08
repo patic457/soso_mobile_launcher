@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<data>
-		GiQrg+v4oLL+imVMkC4CNq33G9A=
+		jeR9w8UznMkfPxddNLTC7ccFJsY=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/flutter_assets/NOTICES.Z</key>
 		<data>
-		9x//7bURLb1s99s/VzepDzRVZbU=
+		hUqmUhirRL15/K6223gc1qOjpSs=
 		</data>
 		<key>Resources/flutter_assets/assets/font/DB%20Heavent%20Bd%20Cond%20It%20v3.2.1.ttf</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Resources/flutter_assets/kernel_blob.bin</key>
 		<data>
-		xA/B3tcvVbIAX5HheeMAHJALOdY=
+		+fW8X3W+Ee/s0XVNHAjR/MJhk8A=
 		</data>
 		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -59,18 +59,6 @@
 		<key>Resources/flutter_assets/packages/fluttertoast/assets/toastify.js</key>
 		<data>
 		Q0Yr9JVfSBiRH22TkE46LT+KLE8=
-		</data>
-		<key>Resources/flutter_assets/packages/marketplace_cart/assets/images/icons/QR_code_ex.png</key>
-		<data>
-		rNueYy6DYezXzvb0hdwuAbRSaQQ=
-		</data>
-		<key>Resources/flutter_assets/packages/marketplace_cart/assets/images/icons/promt-pay-logo.png</key>
-		<data>
-		54f6W+E/xS38/kiH+NDEFzf6LDo=
-		</data>
-		<key>Resources/flutter_assets/packages/marketplace_cart/assets/images/icons/stroke.png</key>
-		<data>
-		44p6wqlhaPu3CVjTuDU/ooytA1s=
 		</data>
 		<key>Resources/flutter_assets/packages/preview/assets/image/applang_ex.png</key>
 		<data>
@@ -207,6 +195,18 @@
 		<key>Resources/flutter_assets/packages/preview/assets/image/title.png</key>
 		<data>
 		xO4D+vvfN/CYC/YOUmsRZs316Jw=
+		</data>
+		<key>Resources/flutter_assets/packages/soso_mobile_cart/assets/images/icons/QR_code_ex.png</key>
+		<data>
+		rNueYy6DYezXzvb0hdwuAbRSaQQ=
+		</data>
+		<key>Resources/flutter_assets/packages/soso_mobile_cart/assets/images/icons/promt-pay-logo.png</key>
+		<data>
+		54f6W+E/xS38/kiH+NDEFzf6LDo=
+		</data>
+		<key>Resources/flutter_assets/packages/soso_mobile_cart/assets/images/icons/stroke.png</key>
+		<data>
+		44p6wqlhaPu3CVjTuDU/ooytA1s=
 		</data>
 		<key>Resources/flutter_assets/packages/ui_style/assets/image/correct_cartoon.png</key>
 		<data>
@@ -362,11 +362,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GiQrg+v4oLL+imVMkC4CNq33G9A=
+			jeR9w8UznMkfPxddNLTC7ccFJsY=
 			</data>
 			<key>hash2</key>
 			<data>
-			XecOIrCW95o3CAStGSyISmE51ShVkUjBE7zj+Syt7xs=
+			rGwORjUkDEnO0qSUER+UQ7wTjni8l+vFeml8OWGoiio=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
@@ -384,11 +384,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9x//7bURLb1s99s/VzepDzRVZbU=
+			hUqmUhirRL15/K6223gc1qOjpSs=
 			</data>
 			<key>hash2</key>
 			<data>
-			vemJAOmSOyHc5e18bx2r431N4biGcqzrjLVzWxiHeAQ=
+			rueePqP1V+a5+QTA/UvWqMXLZg9kLzs3jEBW3YjvqxE=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/assets/font/DB%20Heavent%20Bd%20Cond%20It%20v3.2.1.ttf</key>
@@ -461,11 +461,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xA/B3tcvVbIAX5HheeMAHJALOdY=
+			+fW8X3W+Ee/s0XVNHAjR/MJhk8A=
 			</data>
 			<key>hash2</key>
 			<data>
-			EHctMRt2YivVaMSDu7DmUs5iOw7sbFlIwM/5iuNMAz8=
+			vNODre1kfTnv1jFhgdS+qz3rWvn54n1Fkd0MutUVaxg=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -499,39 +499,6 @@
 			<key>hash2</key>
 			<data>
 			mfqR+tbc9El/g4k3uPxXEF7vEx1a29TL45Ns5tQkjsE=
-			</data>
-		</dict>
-		<key>Resources/flutter_assets/packages/marketplace_cart/assets/images/icons/QR_code_ex.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rNueYy6DYezXzvb0hdwuAbRSaQQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			F2urPKynrXnMfTuTWjNHh7V0L0EYtdrGzhD3tbXXzb8=
-			</data>
-		</dict>
-		<key>Resources/flutter_assets/packages/marketplace_cart/assets/images/icons/promt-pay-logo.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			54f6W+E/xS38/kiH+NDEFzf6LDo=
-			</data>
-			<key>hash2</key>
-			<data>
-			d2/4FsJ1xYPTPl8fnSDjqJQgMAgkTxzNLaA5oUnLku8=
-			</data>
-		</dict>
-		<key>Resources/flutter_assets/packages/marketplace_cart/assets/images/icons/stroke.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			44p6wqlhaPu3CVjTuDU/ooytA1s=
-			</data>
-			<key>hash2</key>
-			<data>
-			MUCxOlqeqXDTsNfJuQPQnKCekSVKOXprCZ40bBcbwtg=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/preview/assets/image/applang_ex.png</key>
@@ -906,6 +873,39 @@
 			<key>hash2</key>
 			<data>
 			s9jgIhR8CogAuuQxQUjGklM8tU3YXNPS2q1gwrOe1y0=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/soso_mobile_cart/assets/images/icons/QR_code_ex.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rNueYy6DYezXzvb0hdwuAbRSaQQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			F2urPKynrXnMfTuTWjNHh7V0L0EYtdrGzhD3tbXXzb8=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/soso_mobile_cart/assets/images/icons/promt-pay-logo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			54f6W+E/xS38/kiH+NDEFzf6LDo=
+			</data>
+			<key>hash2</key>
+			<data>
+			d2/4FsJ1xYPTPl8fnSDjqJQgMAgkTxzNLaA5oUnLku8=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/soso_mobile_cart/assets/images/icons/stroke.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			44p6wqlhaPu3CVjTuDU/ooytA1s=
+			</data>
+			<key>hash2</key>
+			<data>
+			MUCxOlqeqXDTsNfJuQPQnKCekSVKOXprCZ40bBcbwtg=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/ui_style/assets/image/correct_cartoon.png</key>

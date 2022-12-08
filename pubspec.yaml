@@ -1,4 +1,4 @@
-name: marketplace_launcher
+name: soso_mobile_launcher
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -48,8 +48,8 @@ dependencies:
       ref: feature/member
 
 
-  marketplace_cart:
-    path: ../marketplacefeaturecart
+  soso_mobile_cart:
+    path: ../soso_mobile_cart
     # git:
     #   url: https://git.matador.ais.co.th/mfaf/mobileapp/mfaf_flutter/modules/marketplace.git
     #   ref: feature/cart

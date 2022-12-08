@@ -1,0 +1,4 @@
+#Thu Dec 08 17:10:24 ICT 2022
+base.0=/Users/PATIC457/Downloads/Project/MFAF/soso_mobile_launcher/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:marketplace_cart/router.dart';
-import 'package:marketplace_cart/injection.dart' as di;
+import 'package:soso_mobile_cart/router.dart';
+import 'package:soso_mobile_cart/injection.dart' as di;
 
 void main() {
   di.init();
