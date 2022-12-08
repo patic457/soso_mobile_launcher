@@ -1,4 +1,0 @@
-#Thu Dec 01 23:57:51 ICT 2022
-base.0=/Users/patipat/Documents/Project/soso_mobile_launcher/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

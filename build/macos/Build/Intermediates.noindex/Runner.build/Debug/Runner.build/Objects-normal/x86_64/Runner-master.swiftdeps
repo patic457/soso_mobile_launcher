@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "a50a9ad6904f53832a1a61a05a9353c4b9db0b74f9e17a232bfdc0f6c39e8cb2"
+build_start_time: [1670483318, 740200996]
+build_end_time: [1670483334, 545583009]
+inputs:
+  "/Users/PATIC457/Downloads/Project/MFAF/marketplace_launcher/macos/Flutter/GeneratedPluginRegistrant.swift": [1670483253, 881345272]
+  "/Users/PATIC457/Downloads/Project/MFAF/marketplace_launcher/macos/Runner/AppDelegate.swift": [1657744753, 0]
+  "/Users/PATIC457/Downloads/Project/MFAF/marketplace_launcher/macos/Runner/MainFlutterWindow.swift": [1657744753, 0]

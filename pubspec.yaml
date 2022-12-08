@@ -1,4 +1,4 @@
-name: soso_mobile
+name: marketplace_launcher
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -36,17 +36,34 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  timelines: ^0.1.0
+  get_it: ^7.2.0
+  dartz: ^0.10.1
+  flutter_bloc: ^8.1.1
+  equatable: ^2.0.5
 
-  marketplace:
-    path: ../marketplace_feature_cart
+  marketplace_member:
+    git:
+      url: https://git.matador.ais.co.th/mfaf/mobileapp/mfaf_flutter/modules/marketplace.git
+      ref: feature/member
+
+
+  marketplace_cart:
+    path: ../marketplacefeaturecart
     # git:
-    #   url: https://github.com/patic457/soso_mobile_cart.git
-    #   ref: main
-  
-  # preview:
-  #   git:
-  #     url: https://git.matador.ais.co.th/mfaf/mobileapp/mfaf_flutter/modules/preview_ui.git
-  #     ref: developer
+    #   url: https://git.matador.ais.co.th/mfaf/mobileapp/mfaf_flutter/modules/marketplace.git
+    #   ref: feature/cart
+
+
+  core:
+    git:
+      url: https://git.matador.ais.co.th/mfaf/mobileapp/mfaf_flutter/core.git
+      ref: developer
+
+  preview:
+    git:
+      url: https://git.matador.ais.co.th/mfaf/mobileapp/mfaf_flutter/modules/preview_ui.git
+      ref: developer
 
 dev_dependencies:
   flutter_test:
@@ -93,7 +110,6 @@ flutter:
         - asset: assets/font/DB Heavent Bd Cond v3.2.1.ttf
         - asset: assets/font/DB Heavent Cond It v3.2.1.ttf
         - asset: assets/font/DB Heavent Cond v3.2.1.ttf
-
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf

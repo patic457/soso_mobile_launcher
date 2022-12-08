@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		ZqzWWZTpUOSXeejGNq+13/OiKjA=
+		6g/jz/za6/zU142WWkFJwVrNFw0=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-101300.nib</key>
 		<data>
@@ -27,28 +27,46 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			2a6XIwF1bNcZwicxmGyVRmD3bVA=
+			mWbj+Yqg4kjfL8ZxReTZTYxTrHo=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d9ae972301756cd719c22731986c954660f76d50"</string>
+			<string>cdhash H"57fb4cb4d2a8fe1d327aee91c02a3f9b4873ccb4" or cdhash H"9966e3f98aa0e248df2fc67145e4d94d8c53ac7a"</string>
 		</dict>
 		<key>Frameworks/FMDB.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			kqs6KMtV5mXhi2Ekxc+Uy1cl3a4=
+			a8c6C6wuG5Q+FfPdY0zLrBQ+DWQ=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"92ab3a28cb55e665e18b6124c5cf94cb5725ddae"</string>
+			<string>cdhash H"3a30472cadff08f39316e5d776d96a7524e0e6db" or cdhash H"6bc73a0bac2e1b943e15f3dd634ccbac143e0d64"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			+ts6t/CoD/KJnU8MYPuIAnhdjAE=
+			zBUgOq4tWdIz0M1CGVqOHYKLqFE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"fadb3ab7f0a80ff2899d4f0c60fb8802785d8c01"</string>
+			<string>cdhash H"106106a26a6dcb752f5c0fa43e85e12380c14a3d" or cdhash H"cc15203aae2d59d233d0cd42195a8e1d828ba851"</string>
+		</dict>
+		<key>Frameworks/Reachability.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ti/tEY3pJLwmqirNyGAyKyB/IjQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9736b2aa4f15fce5586780d9c888132ff47d556c" or cdhash H"b62fed118de924bc26aa2acdc860322b207f2234"</string>
+		</dict>
+		<key>Frameworks/connectivity_plus_macos.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			oyc2gckRCHwQbRC/AWfwVX0ilf8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2b9a5696fa626f798e0393717dcc74370dc191ba" or cdhash H"a3273681c911087c106d10bf0167f0557d2295ff"</string>
 		</dict>
 		<key>Frameworks/libswiftAppKit.dylib</key>
 		<dict>
@@ -167,6 +185,15 @@
 			<key>requirement</key>
 			<string>cdhash H"1291840c54eedc74a0c7b25a0aa8a3ea8ba2dd1f" or cdhash H"b4aafa8b6249b471052e42bf7ccb9d0b4f778d9e"</string>
 		</dict>
+		<key>Frameworks/libswiftNetwork.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			M05QyfqkBz1gER1PGwPOXeitJ+c=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"18df51e1b6d375363db5a4174cd9b376b46d7f7f" or cdhash H"334e50c9faa4073d60111d4f1b03ce5de8ad27e7"</string>
+		</dict>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>cdhash</key>
@@ -207,22 +234,35 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			uPo+AHTTzotO2ZbsLEnwRpCYlsc=
+			YisXqcXM244FeYgj7wc13/sI5CU=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b8fa3e0074d3ce8b4ed996ec2c49f046909896c7"</string>
+			<string>cdhash H"90dc264ffc8e768b121f121b3e06f4435b8eee17" or cdhash H"622b17a9c5ccdb8e05798823ef0735dffb08e425"</string>
+		</dict>
+		<key>Frameworks/shared_preferences_macos.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Nd3hpVFQI2akNFz2GXM0oEqc8/Y=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f6059d063a75ab8ff525795e303d5bda97ab505f" or cdhash H"35dde1a551502366a4345cf6197334a04a9cf3f6"</string>
 		</dict>
 		<key>Frameworks/sqflite.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			xd3MfOgRZPcv5RWSdvlwgIZsUX8=
+			mfB8BVjtxJoWRyQgM7q3AATPyWc=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"c5ddcc7ce81164f72fe5159276f97080866c517f"</string>
+			<string>cdhash H"37e72187f9691f0bccb3db4a3fb53245315c0f2a" or cdhash H"99f07c0558edc49a1647242033bab70004cfc967"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			URS7ZMjS6R2b/EKu5Z1xZIypGck=
+			</data>
 			<key>hash2</key>
 			<data>
 			mnw/86rBhdpr28A9GFSr/xwLnYgcKRhSPRhn0wpyVWQ=
@@ -230,13 +270,21 @@
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			6g/jz/za6/zU142WWkFJwVrNFw0=
+			</data>
 			<key>hash2</key>
 			<data>
-			2fcOKkmjoanGqsFOEROIT5LN6/CZkLUJcDBnKU1JrKg=
+			p5XgPT/ZJ+jNEgVc357BsJTihqnXmtKL7RcDqxnNKe8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-101300.nib</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			xp+9+puzFl/4svophPnsTDz8Seg=
+			</data>
 			<key>hash2</key>
 			<data>
 			vsKpBQpnJ78hYs3JCMsPQjwW/eki7seFU8GUYbu+S00=
@@ -244,6 +292,10 @@
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects.nib</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			UtEb7wfWjweUdYuAowmsBknrBAg=
+			</data>
 			<key>hash2</key>
 			<data>
 			Tanu7fBuBOSHPJ98TutGEG49lNVvl/Mlq7Bdfsrdh9s=
