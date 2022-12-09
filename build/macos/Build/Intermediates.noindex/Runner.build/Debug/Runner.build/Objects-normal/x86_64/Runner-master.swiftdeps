@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
-options: "80d43d13092f744e17475e60d650d141a8138ecd10a95fc5c000ef67bf26b0fe"
-build_start_time: [1670492027, 288462162]
-build_end_time: [1670492040, 13309955]
-inputs:
-  "/Users/PATIC457/Downloads/Project/MFAF/soso_mobile_launcher/macos/Flutter/GeneratedPluginRegistrant.swift": [1670491959, 700434446]
-  "/Users/PATIC457/Downloads/Project/MFAF/soso_mobile_launcher/macos/Runner/AppDelegate.swift": [1657744753, 0]
-  "/Users/PATIC457/Downloads/Project/MFAF/soso_mobile_launcher/macos/Runner/MainFlutterWindow.swift": [1657744753, 0]

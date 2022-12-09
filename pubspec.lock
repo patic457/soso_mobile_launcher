@@ -70,7 +70,7 @@ packages:
       name: cached_network_image
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.2.2"
+    version: "3.2.3"
   cached_network_image_platform_interface:
     dependency: transitive
     description:
@@ -188,10 +188,17 @@ packages:
     description:
       path: "."
       ref: developer
-      resolved-ref: d74f56de3552037dd0d282880d4792d2633e991e
+      resolved-ref: aec14cb61b446d60035856f46a36d16f5c8c171d
       url: "https://git.matador.ais.co.th/mfaf/mobileapp/mfaf_flutter/core.git"
     source: git
     version: "0.0.1"
+  coupon_uikit:
+    dependency: transitive
+    description:
+      name: coupon_uikit
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.0"
   crypto:
     dependency: transitive
     description:
@@ -241,6 +248,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.3.0"
+  dropdown_button2:
+    dependency: transitive
+    description:
+      name: dropdown_button2
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.9.2"
   encrypt:
     dependency: transitive
     description:
@@ -492,6 +506,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.1"
+  logger:
+    dependency: transitive
+    description:
+      name: logger
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.1.0"
   logging:
     dependency: transitive
     description:
@@ -504,7 +525,7 @@ packages:
     description:
       path: "."
       ref: "feature/member"
-      resolved-ref: "1f3c4ed5179527c80cd39345b706f0009c89d969"
+      resolved-ref: "5ae82f46e40970664be8de290dc672f250b7124d"
       url: "https://git.matador.ais.co.th/mfaf/mobileapp/mfaf_flutter/modules/marketplace.git"
     source: git
     version: "0.0.1"
@@ -598,7 +619,7 @@ packages:
       name: path_provider_android
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.21"
+    version: "2.0.22"
   path_provider_ios:
     dependency: transitive
     description:
@@ -641,6 +662,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.11.1"
+  percent_indicator:
+    dependency: transitive
+    description:
+      name: percent_indicator
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "4.2.2"
   petitparser:
     dependency: transitive
     description:
@@ -674,7 +702,7 @@ packages:
     description:
       path: "."
       ref: developer
-      resolved-ref: "7af1371c14723f19aad16a153179e0b0b88fed02"
+      resolved-ref: "6c8ecaa81e5c1ffff49fd4018bc421fd16e7c9a0"
       url: "https://git.matador.ais.co.th/mfaf/mobileapp/mfaf_flutter/modules/preview_ui.git"
     source: git
     version: "0.0.1"
@@ -713,6 +741,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.0"
+  rename:
+    dependency: "direct main"
+    description:
+      name: rename
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.1"
   rxdart:
     dependency: transitive
     description:
@@ -815,7 +850,7 @@ packages:
       name: sqflite
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.2.0+3"
+    version: "2.2.2"
   sqflite_common:
     dependency: transitive
     description:
@@ -891,7 +926,7 @@ packages:
     description:
       path: "."
       ref: "develop-0.1"
-      resolved-ref: "8a525ff316fcf4a7bebf37e5c2f25a1b4bf7496c"
+      resolved-ref: d43752b86b0d73f903ff55ec224ceef6e8dc62a4
       url: "https://git.matador.ais.co.th/mfaf/mobileapp/mfaf_flutter/ui_styles.git"
     source: git
     version: "0.0.1"
@@ -929,7 +964,7 @@ packages:
       name: win32
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.1.1"
+    version: "3.1.2"
   xdg_directories:
     dependency: transitive
     description:

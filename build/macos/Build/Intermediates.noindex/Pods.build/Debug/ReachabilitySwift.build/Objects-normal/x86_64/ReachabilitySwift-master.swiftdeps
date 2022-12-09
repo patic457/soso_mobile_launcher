@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
-options: "55b311410556ad3bbfffc62e15c86879cf4eb5c6fbf95be07ae8aac277d3d7ce"
-build_start_time: [1670491983, 995002031]
-build_end_time: [1670492003, 304209947]
-inputs:
-  "/Users/PATIC457/Downloads/Project/MFAF/soso_mobile_launcher/macos/Pods/ReachabilitySwift/Sources/Reachability.swift": [1670491963, 194924354]

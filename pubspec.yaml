@@ -64,6 +64,7 @@ dependencies:
     git:
       url: https://git.matador.ais.co.th/mfaf/mobileapp/mfaf_flutter/modules/preview_ui.git
       ref: developer
+  rename: ^2.0.1
 
 dev_dependencies:
   flutter_test:
