@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Marketplace Launcher',
+      title: 'SosoMFAF',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         fontFamily: 'DB Heaven',
